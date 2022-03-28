@@ -1,1 +1,1 @@
-# Ditto.github.io
+# player.github.io
